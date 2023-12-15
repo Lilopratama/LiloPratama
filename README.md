@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi Everyone👋
+==
+Student at Polytechnic State of Samarinda👨🏻‍🎓
+I'm Currently deepleraning about android developer roadmap in [Dicoding]https://www.dicoding.com/learningpaths/7.🧑🏻‍💻
+
+If you want to know more about me, u can reach me at [Linkedin]https://www.linkedin.com/in/lilo-puji-pratama/.🙇🏻‍♂️
 
 <!--
 **Lilopratama/LiloPratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
