@@ -2,7 +2,7 @@
 ----
 My name is Lilo Puji Pratama🙋🏻,
 Student at Polytechnic State of Samarinda👨🏻‍🎓.<br>
-I'm Currently deepleraning about android developer roadmap in [Dicoding](https://www.dicoding.com/learningpaths/7).🧑🏻‍💻
+I'm Currently learnabout android developer roadmap in [Dicoding](https://www.dicoding.com/learningpaths/7).🧑🏻‍💻
 
 If you want to know more about me, u can reach me at [Linkedin](https://www.linkedin.com/in/lilo-puji-pratama/).🙇🏻‍♂
 
